@@ -3,8 +3,6 @@
 ## Overview
 The Gold/Silver Loan Management System is a web application designed for Star Finance customers to deposit their gold, silver, or platinum ornaments and avail cash loans based on competitive market rates. This segment is highly profitable due to the volatility in the bullion markets. The system ensures a seamless and automated process from customer KYC verification to loan disbursement.
 
-![Gold Loan](path/to/your/image.jpg)
-
 ## Features
 - **Customer KYC Verification**: Automated KYC verification using available APIs (eGovt Grid for Aadhaar, PAN Card, Passport, DL validation).
 - **Gold Deposit Request**: Customers can raise a gold loan application with detailed asset information.
